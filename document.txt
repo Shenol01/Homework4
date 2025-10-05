@@ -1,0 +1,6 @@
+Coding, or programming, is the process of writing instructions, called code, in a programming language that tells a computer what to do, enabling it to perform tasks, build software like websites and apps, and manage devices. It involves designing algorithms, translating them into a computer-readable format (often binary), and using concepts like variables and conditions to create functional programs for various applications, from cell phones to smart traffic lights. 
+
+Instructions: Coders write sequences of instructions, or programs, in a programming language like Python or JavaScript. 
+
+Translation: These instructions are then translated into binary code (zeros and ones) that the computer's hardware can understand and execute. 
+Execution: The computer reads and processes these binary instructions, performing the actions specified by the programme
